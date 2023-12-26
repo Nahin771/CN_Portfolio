@@ -550,6 +550,9 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
+.bold {
+    font-weight: bold;
+}
 
 
 /* responsive media query start */
